@@ -29,9 +29,4 @@ API Endpoints
 Recommended Events Endpoint: https://gg-backendassignment.azurewebsites.net/api/Events?code=FOX643kbHEAkyPbdd8nwNLkekHcL4z0hzWBGCd64Ur7mAzFuRCHeyQ==&type=reco
 Upcoming Events Endpoint: https://gg-backendassignment.azurewebsites.net/api/Events?code=FOX643kbHEAkyPbdd8nwNLkekHcL4z0hzWBGCd64Ur7mAzFuRCHeyQ==&page=<page_number>&type=upcoming
 Contributors
-[Your Name] - Your GitHub Profile
-License
-This project is licensed under the MIT License.
-
-Issues
-If you encounter any issues or have suggestions for improvement, please feel free to open an issue on this repository.
+[Nch Sri Ashritha] - (https://github.com/Ashrithanch09/web)
