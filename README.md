@@ -1,6 +1,6 @@
 Event Website README
 
-This repository contains the code for an event website. It provides information about recommended events and upcoming events. Users can view recommended events and scroll to load more upcoming events.
+This repository contains the code for an event website. It provides information about recommended events and upcoming events. Users can view recommended Events and scroll to load more upcoming events.
 
 Files Included
 index.html: This file contains the structure of the website written in HTML, including headers, sections for recommended and upcoming events, and references to CSS and JavaScript files.
