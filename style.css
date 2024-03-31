@@ -1,0 +1,31 @@
+body {
+  font-family: "Inter", sans-serif;
+  background-color: #ffffff;
+  color: #1e2022;
+}
+header {
+  text-align: center;
+  padding: 20px;
+}
+header img {
+  max-width: 100%;
+}
+h1,
+h2 {
+  color: #1e2022;
+}
+.recommended-events-container {
+  display: flex;
+  overflow-x: auto;
+  padding: 10px;
+}
+.recommended-event {
+  flex: 0 0 auto;
+  margin-right: 10px;
+}
+.upcoming-events-container {
+  padding: 10px;
+}
+.loading-spinner {
+  /* styles for loading spinner */
+}
