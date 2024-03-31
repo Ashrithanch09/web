@@ -28,5 +28,6 @@ loading-spinner: The loading spinner is used to indicate when upcoming events ar
 API Endpoints
 Recommended Events Endpoint: https://gg-backendassignment.azurewebsites.net/api/Events?code=FOX643kbHEAkyPbdd8nwNLkekHcL4z0hzWBGCd64Ur7mAzFuRCHeyQ==&type=reco
 Upcoming Events Endpoint: https://gg-backendassignment.azurewebsites.net/api/Events?code=FOX643kbHEAkyPbdd8nwNLkekHcL4z0hzWBGCd64Ur7mAzFuRCHeyQ==&page=<page_number>&type=upcoming
+
 Contributors
 [Nch Sri Ashritha] - (https://github.com/Ashrithanch09/web)
